@@ -12,3 +12,4 @@ How could these trends apply to Bellabeat customers?
 
 How could these trends help influence Bellabeat marketing strategy?
 
+Original Data: https://www.kaggle.com/datasets/arashnic/fitbit
