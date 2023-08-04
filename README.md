@@ -1,2 +1,2 @@
-# Bellabeat
+# Bellabeat Capstone Project
 Capstone Project
